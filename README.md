@@ -1,4 +1,4 @@
-# Java_Basic_Projects
+# Java_Basic_Project ( Rock_Scissor_Paper Game)
 This is a 'Rock Paper Scissor' game using java basic(Consitional Statement).
 ----------------------------------------------------------------------------
 U = User can choose -> Rock / Scissor / Paper 
